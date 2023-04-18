@@ -1,0 +1,9 @@
+<html>
+<head>
+<title> Map </title>
+</head>
+
+<body>
+<iframe src="https://neagent.info/moskva/embed/karta/" style="width:100%; height:600px; padding:0; margin:0; border:0;"></iframe>
+</body>
+</html>
